@@ -7,6 +7,7 @@ keyring
 
 Notes
 =====
+Keyring is used to securly store the API key.
 
 '''
 import meraki
